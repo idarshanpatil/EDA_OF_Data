@@ -1,4 +1,4 @@
-# EDA of Churn Modelling Dataset 📊
+# EDA_of_Data 📊
 Overview
 This project focuses on Exploratory Data Analysis (EDA) of the Churn Modelling Dataset to uncover insights and patterns about customer behavior. The dataset includes customer demographics, credit scores, geography, and other key attributes, which help to identify factors influencing customer churn.
 
